@@ -6,5 +6,6 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
+    <text>陆晓新增的代码片段</text>
   </view>
 </view>
